@@ -1,4 +1,4 @@
-1. [] Create README
+1. [x] Create README
 2. [] Install Yelp Data Scraper
 3. [] Look into Scrapy
 4. [] Identify problems with Yelp Data Scraper
